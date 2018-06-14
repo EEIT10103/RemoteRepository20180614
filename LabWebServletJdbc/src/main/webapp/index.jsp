@@ -11,7 +11,7 @@
 <%
 System.out.println("index.jsp");
 %>
-<h1>我是振義</h1>
+<h1>7878</h1>
 
 <h3>Welcome ${user.custid}</h3>
 
