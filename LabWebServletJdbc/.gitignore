@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 /.settings/
 /target/
 /.classpath
 /.project
+=======
+/.classpath
+/.project
+/.settings/
+/target/
+>>>>>>> branch 'master' of https://github.com/EEIT10103/RemoteRepository20180614.git
